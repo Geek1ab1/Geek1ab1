@@ -4,8 +4,8 @@ Welcome to my digital worklab (⌐■_■)
 
 ### 🔭 Currently Working On:
 * Mastering C++ fundamentals and data structures
-* Configuring my custom Linux environment
- 🌱 Personal Goals:
+* Configuring my custom Linux environment  
+### 🌱 Personal Goals:
   * productivity 
   * Expanding my knowledge 
   * building my cyberdeck/tech tools
