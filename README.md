@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, i am a digital nomad ^^
 
-<!--
-**Geek1ab1/Geek1ab1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my digital worklab (⌐■_■)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On:
+* Mastering C++ fundamentals and data structures
+* Configuring my custom Linux environment
+ 🌱 Personal Goals:
+  * productivity 
+  * Expanding my knowledge 
+  * building my cyberdeck/tech tools
+  * Being competent in tech 
+  * Minimalist living 
+  * be a part of tech community 
+  * being serious ૮₍ ˶• ༝ •˶ ₎ა
